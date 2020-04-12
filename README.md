@@ -19,3 +19,4 @@ Lakukan register dengan cara masukkan username dan passwword, setelah itu klik t
 Di page menu, terdapat beberapa informasi dan tampilan dari baso aci
 
 ## Video 
+https://youtu.be/qKkyLl5wkjc 
