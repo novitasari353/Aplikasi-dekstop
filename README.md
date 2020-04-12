@@ -6,6 +6,7 @@
 - library Tkinnter
 
 ## How To Run App
+
 - Download Folder Baso Aci
 - Hubungkan cassandra di cmd. setelah itu jalnkan cassandra.Bat -f
 - Jalankan Boci.py
