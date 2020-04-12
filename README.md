@@ -3,12 +3,12 @@
 - Python 2.7+
 - Cassandra
 - Apache Thrift
-- library Tkinnter
+- Library Tkinter
 
 ## How To Run App
 
 - Download Folder Baso Aci
-- Hubungkan cassandra di cmd. setelah itu jalnkan cassandra.Bat -f
+- Hubungkan cassandra di cmd. setelah itu jalankan cassandra.Bat -f
 - Jalankan Boci.py
 - setelah dijalankan, Akan ada tampilan utama
 
